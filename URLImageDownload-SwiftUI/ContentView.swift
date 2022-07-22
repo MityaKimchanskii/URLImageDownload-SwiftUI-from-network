@@ -9,8 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        URLImage(url: "https://fyrafix.files.wordpress.com/2011/08/url-8.jpg")
     }
 }
 

@@ -11,6 +11,8 @@
 		3BC83997288A7C3500866D3F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC83996288A7C3500866D3F /* ContentView.swift */; };
 		3BC83999288A7C3600866D3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BC83998288A7C3600866D3F /* Assets.xcassets */; };
 		3BC8399C288A7C3600866D3F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BC8399B288A7C3600866D3F /* Preview Assets.xcassets */; };
+		3BC839A3288A7C5D00866D3F /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC839A2288A7C5D00866D3F /* ImageLoader.swift */; };
+		3BC839A5288A7D5300866D3F /* URLImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BC839A4288A7D5300866D3F /* URLImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		3BC83996288A7C3500866D3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3BC83998288A7C3600866D3F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BC8399B288A7C3600866D3F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BC839A2288A7C5D00866D3F /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
+		3BC839A4288A7D5300866D3F /* URLImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				3BC83996288A7C3500866D3F /* ContentView.swift */,
 				3BC83998288A7C3600866D3F /* Assets.xcassets */,
 				3BC8399A288A7C3600866D3F /* Preview Content */,
+				3BC839A2288A7C5D00866D3F /* ImageLoader.swift */,
+				3BC839A4288A7D5300866D3F /* URLImage.swift */,
 			);
 			path = "URLImageDownload-SwiftUI";
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			files = (
 				3BC83997288A7C3500866D3F /* ContentView.swift in Sources */,
 				3BC83995288A7C3500866D3F /* URLImageDownload_SwiftUIApp.swift in Sources */,
+				3BC839A3288A7C5D00866D3F /* ImageLoader.swift in Sources */,
+				3BC839A5288A7D5300866D3F /* URLImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
